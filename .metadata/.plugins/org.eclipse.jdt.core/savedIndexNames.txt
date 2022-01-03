@@ -1,6 +1,0 @@
-INDEX VERSION 1.131+C:\NetP-TermProject\.metadata\.plugins\org.eclipse.jdt.core
-3271193799.index
-75931715.index
-576944998.index
-3209341637.index
-1865797976.index
